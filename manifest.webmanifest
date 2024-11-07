@@ -1,1 +1,1 @@
-{"name":"Tea Tracker","short_name":"Tea Tracker","start_url":".","display":"standalone","background_color":"#ffffff","lang":"en","scope":"./","description":"Aplikace pro sledování čajů","theme_color":"#ffffff"}
+{"name":"Tea Tracker","short_name":"Tea Tracker","start_url":".","display":"standalone","background_color":"#ffffff","lang":"en","scope":"/tea-tracker-test/","description":"Aplikace pro sledování čajů","theme_color":"#ffffff"}
